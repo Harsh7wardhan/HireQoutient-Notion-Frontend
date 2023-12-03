@@ -10,16 +10,14 @@ To run this project locally, follow these steps:
     git clone https://github.com/your-username/hirequotient-assignment-1.git
     ```
 
-2. Navigate to the project directory.
-
-    ```bash
-    cd hirequotient-assignment-1
-    ```
-
+2. Navigate to the project directory
 3. Install dependencies.
 
     ```bash
     npm install
     ```
-
+4. Run the project using this command 
+ ```bash
+    npm start
+    ```
 
