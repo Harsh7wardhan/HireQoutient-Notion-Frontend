@@ -21,3 +21,6 @@ To run this project locally, follow these steps:
     npm start
     ```
 
+## Live link : 
+https://656c73c31d7bce7b3b4ba801--zingy-empanada-bbac78.netlify.app/
+
